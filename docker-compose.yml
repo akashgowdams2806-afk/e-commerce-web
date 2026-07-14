@@ -1,0 +1,7 @@
+services:
+  ecommerce-app:
+    image: akashms54/ecommerce-app:latest
+    container_name: ecommerce-app
+    ports:
+      - "8086:8080"
+    restart: unless-stopped

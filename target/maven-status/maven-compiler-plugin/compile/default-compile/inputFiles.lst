@@ -1,0 +1,5 @@
+/root/e-commerce-web/src/main/java/com/example/ecommerce/service/ProductService.java
+/root/e-commerce-web/src/main/java/com/example/ecommerce/EcommerceApplication.java
+/root/e-commerce-web/src/main/java/com/example/ecommerce/model/Product.java
+/root/e-commerce-web/src/main/java/com/example/ecommerce/model/CartItem.java
+/root/e-commerce-web/src/main/java/com/example/ecommerce/controller/ShopController.java
